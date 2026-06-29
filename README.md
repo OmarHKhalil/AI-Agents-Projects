@@ -1,4 +1,4 @@
-AI-Agent-Projects#
+# AI-Agent-Projects
 
 An educational and practical repository for building autonomous AI agents.
 
